@@ -4,7 +4,7 @@
 
 ![Total Cases vs  Total Deaths in Lebanon](https://github.com/EdwinKhoury/Covid-19-Project/assets/146214280/3b939aa6-fa65-4718-b037-88c9abd86f91)
 
-As shown in the graph above, the total death line and the total cases line have some similarities in their behaviors. Each line is on a different Y-axis scale. Between January 2020 and July 2020, both cases and deaths seem to have increased in a staggering manner. The first jump occurs in July 2020 for both lines. The total number of cases increased from 4,334 on the 31st of July to 540,277 cases on the 31st of May 2021. The total number of deaths has a much steeper line, from 57 deaths on the 31st of July to a total of 7,723 deaths on the 31st of May. From June 2021 to December 2021, both curves are relatively flatter than previously. At the start of 2022, the number of cases faces another jump that lasts 3 months. The number of deaths is also subject to another increase, but it is much flatter than the previous jump and flatter than the number of cases at that time. Since then, there has been a flat line for both of the lines.
+As shown in the graph above, the total death line and the total cases line have some similarities in their behaviors. Each line is on a different Y-axis scale. Between January 2020 and July 2020, both cases and deaths seem to have increased in a staggering manner. The first jump occurred in July 2020 for both lines. The total number of cases increased from 4,334 on the 31st of July to 540,277 cases on the 31st of May 2021. The total number of deaths has a much steeper line, from 57 deaths on the 31st of July to a total of 7,723 deaths on the 31st of May. From June 2021 to December 2021, both curves are relatively flatter than previously. At the start of 2022, the number of cases faces another jump that lasts 3 months. The number of deaths is also subject to another increase, but it is much flatter than the previous jump and flatter than the number of cases at that time. Since then, there has been a flat line for both of the lines.
 
 
 ## **Percent of Population Infected Over Time**
@@ -18,7 +18,7 @@ Of the above countries infected by COVID-19, the United Kingdom has the highest 
 
 ![Percent Population Infected per Country](https://github.com/EdwinKhoury/Covid-19-Project/assets/146214280/f64575aa-b7c8-4c53-8d5f-552ad0f00779)
 
-Cyprus is the country with the highest infection rate; up until August 2023, 73.75% of the population contracted COVID-19.
+Cyprus is the country with the highest infection rate; up until August 2023, 73.75% of the population contracted COVID-19. Most of the countries that saw a high percentage of their population get infected are in Europe.
 Yemen, Niger, Chad, Tanzania, and Sierra Leone have an infection rate lower than 0.1% of their populations; this is not because of low propagation in these countries, but rather the unavailability of medical care and PCR tests in these countries: most of the cases and deaths are not recorded.
 
 
@@ -47,7 +47,7 @@ Up until the 30th of August 2023, we counted 770,166,399 cases and 6,912,380 dea
 
 ![Number of Vaccinations Over Time in Lebanon](https://github.com/EdwinKhoury/Covid-19-Project/assets/146214280/e143ff08-33c7-4879-9d96-12e45906b280)
 
-The first vaccination in Lebanon took place on February 14, 2021. With time, the number of vaccinations kept varying. The first peak of vaccinations happened on December 21, 2021, with 285,437 vaccines. It reached its second peak four months later, on April 25, 2022, with a record of 292,132 vaccines recorded on a single day. Since then, no vaccinations have been recorded. 
+The first vaccination in Lebanon took place on February 14, 2021. With time, the number of vaccinations kept varying. The first peak of vaccinations happened on December 21, 2021, with 285,437 vaccines. It reached its second peak four months later, on April 25, 2022, with a record of 292,132 vaccines recorded on a single day. Since then, no vaccinations have been recorded.
 
 
 
